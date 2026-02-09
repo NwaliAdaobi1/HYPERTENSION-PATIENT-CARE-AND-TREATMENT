@@ -133,7 +133,10 @@ This Project delivered an interactive insight that gave the Cardiology team a cl
 
 Future improvement may include real time patient monitoring and predictive analytics to support early risk detection and personalized treatment planning. 
 
+## Author
+**Nwali Adaobi**
 
+**(Data Analyst)**
 
 
 
