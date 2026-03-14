@@ -29,7 +29,7 @@ The dataset used for the project is a fictional hypertension patient care and tr
       - Patient Follow-up Required
       - Patient Visit Status
 
- ## Data Transformation and Cleaning
+ ## Data Transformation & Cleaning
  Before analysis, the raw data was prepared in Power Query for accuracy and consistency.
   1. Created a backup copy of the original dataset.
   2. Removed duplicate visits.
@@ -74,7 +74,7 @@ Key DAX measures were created to monitor trends
   6. **Treatment Success Rate**
       - Treatment Success% = DIVIDE([Total Successful Treatment],[Total Treatment])
 
-## Dashboard and Visuals
+## Dashboard & Visuals
 Dashboard screenshots are placed here in the portfolio
 The dashboard includes:
   1. **KPI Cards**:
@@ -103,7 +103,7 @@ This layout is designed for clear review and interactive explanation.
 
 ![](Hypertension_dashboard.png)
 
-## Insight and Findings
+## Insights & Findings
   1. Total Visits: 3000
   2. Total Patients: 499
   3. Completed Visits: 1000
@@ -135,7 +135,6 @@ Future improvement may include real time patient monitoring and predictive analy
 
 ## Author
 **Nwali Adaobi**
-
 **(Data Analyst)**
 
 
